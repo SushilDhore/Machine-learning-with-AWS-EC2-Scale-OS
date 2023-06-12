@@ -38,3 +38,6 @@ while True:
         
 cv2.destroyAllWindows()
 cap.release()
+
+
+# https://www.section.io/engineering-education/creating-a-hand-tracking-module/
